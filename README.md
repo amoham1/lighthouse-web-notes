@@ -1,6 +1,6 @@
 # Ahmed Mohamed's Notes
 ## Summary 
-This repository contains all of the notes taken by [Ahmed](https://www.lighthouselabs.ca/) for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ahmed](https://github.com/) for the [Lighthouse Labs](lighthouselabs.ca) Web Development Bootcamp.
 ## Table of Contents'
   * [Week 1](/Week_1)
 
